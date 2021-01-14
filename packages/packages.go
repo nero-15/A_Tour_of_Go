@@ -1,3 +1,4 @@
+//https://go-tour-jp.appspot.com/basics/1
 package main
 
 import (
